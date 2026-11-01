@@ -1,0 +1,9 @@
+# backup
+backup/
+
+# jpeg and log
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
